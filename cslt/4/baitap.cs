@@ -4,11 +4,11 @@ using System.Runtime.CompilerServices;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
 
-namespace baitap
+/*namespace baitap
 {
     internal class BT_1
     {
-        static void Main()
+*/      /*  static void Main()
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.Write("Nhập số tuổi: ");
@@ -41,7 +41,7 @@ namespace baitap
                 }
             }
             Console.WriteLine($"Giá vé của bạn là: {GiaVe:N0} VNĐ");
-        }
+        }*/
     /*internal class BT_3
     {
         static void Main()
@@ -386,4 +386,3 @@ namespace baitap
 
         }
     }*/
-}

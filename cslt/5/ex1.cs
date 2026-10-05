@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace cslt._5
+/*namespace cslt._5
 {
     internal class ex1
     {
@@ -66,3 +66,4 @@ namespace cslt._5
             }
     }
 }
+*/

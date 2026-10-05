@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace cslt._6
+/*namespace cslt._6
 {
     internal class ex
-    {
-        public static int TinhTong(int a, int b)
+    {*/
+    /*    public static int TinhTong(int a, int b)
         {
             return a + b;
         }
@@ -20,9 +20,9 @@ namespace cslt._6
             int result = TinhTong(a, b);
             Console.WriteLine($" Tổng của {a} và {b} là: {result}");
         }
-    }*/
+    }
 
-    /*internal class BT_2
+    *//*internal class BT_2
     {
         public static bool KiemTraChan(int n)
         {
@@ -240,8 +240,9 @@ namespace cslt._6
             else
                 Console.WriteLine($"Năm {year} không phải là năm nhuận.");
         }
-    }*/
+    }*//*
 }
 
     }
 }
+*/
